@@ -11,6 +11,6 @@ Our project contains four parts:
 
 3. Faceswap with SimSwap on videos: [SimSwap_high_res.ipynb](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/SimSwap/SimSwap_high_res.ipynb), [SimSwap_low_res.ipynb](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/SimSwap/SimSwap_low_res.ipynb)
 
-4. Apply video super resolution methods on the videos.
+4. [Apply video super resolution methods on the videos.](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/blob/master/mmediting/demo/qing.ipynb)
 
 5. [Evaluate the super resolution quality](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/src)
