@@ -1,3 +1,12 @@
 SimSwap/crop_224/*
 SimSwap/demo_file/*
 
+./mmediting/input/Qing_test2.mp4
+./mmediting/input/Test_qing_imag_512.mp4
+./SimSwap/insightface_func/models/antelope/glintr100.onnx
+./SimSwap/parsing_model/checkpoint/79999_iter.pth
+./SimSwap/checkpoints/people/latest_net_D1.pth
+./SimSwap/checkpoints/people/latest_net_G.pth
+./SimSwap/checkpoints/people/latest_net_D2.pth
+./SimSwap/checkpoints/512/550000_net_G.pth
+./SimSwap/arcface_model/arcface_checkpoint.tar
