@@ -5,9 +5,9 @@ Check out the "master" branch before proceeding!
 
 Our project contains four parts:
 
-1. Generate artificial faces with StyleGAN3.
+1. Generate artificial faces with StyleGAN3. Default code.
 
-2. [Find the best matching faces with the source face](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/src). Most of our contribution is here!
+2. [Find the best matching faces with the source face](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/src). 
 
 3. Faceswap with SimSwap on videos: [SimSwap_high_res.ipynb](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/SimSwap/SimSwap_high_res.ipynb), [SimSwap_low_res.ipynb](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/SimSwap/SimSwap_low_res.ipynb)
 
