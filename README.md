@@ -9,7 +9,7 @@ Our project contains four parts:
 
 2. [Find the best matching faces with the source face](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/src). Most of our contribution is here.
 
-3. [Faceswap with SimSwap on videos.]
+3. [Faceswap with SimSwap on videos](https://github.com/RuihanZhang2015/6869-Computer-Vision-Project/tree/master/SimSwap#:~:text=SimSwap_high_res.ipynb)
 
 4. Apply video super resolution methods on the videos.
 
